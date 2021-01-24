@@ -1,8 +1,10 @@
 # How to use our daily 📆
 
- ❤️ The red highlighted area represents the current hour
- 💚 The green highlighted area represents the future hours
- ❕ The grey highlighted area represents the past hours
+ * ❤️ The red highlighted area represents the current hour
+
+ * 💚 The green highlighted area represents the future hours
+
+ * ❕ The grey highlighted area represents the past hours
 
 
 # Technologies used 
