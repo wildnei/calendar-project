@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 16px;
   line-height: 1;
 }
@@ -13,13 +13,22 @@ textarea{
   padding: 10px;
 }
 
+.timing {
+  padding-top: 25px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-left: 1px solid black;
+}
+
 .jumbotron {
+  font-family: 'Courier New', Courier, monospace;
   text-align: center;
-  background-color: rgb(238, 238, 238);
   font-weight: 600;
+  background-color: rgb(255, 206, 93);
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
+  padding: 50px;
 }
 
 .description{
@@ -37,11 +46,11 @@ textarea{
   border-top: 1px solid rgb(144, 144, 144);;
 }
 
-.hour {
+/* .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
-}
+} */
 
 .past {
   background-color: #d3d3d3;
@@ -60,8 +69,8 @@ textarea{
 
 .saveBtn {
   border-left: 1px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
   background-color: #06AED5;
   color: white;
 }
@@ -77,4 +86,10 @@ textarea{
 
 .container {
   margin: 30px;
+}
+
+#currentDay {
+  font-size: 24px;
+  font-weight: 600;
+  
 }
