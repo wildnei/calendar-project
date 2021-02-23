@@ -1,3 +1,7 @@
+## Link to deployed application
+
+https://wildnei.github.io/calendar-project/
+
 # How to use our daily 📆
 
  * ❤️ The red highlighted area represents the current hour
